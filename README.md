@@ -5,7 +5,7 @@ The dataset includes details such as gender, race/ethnicity, parental education,
 
 
 
-## Problem Statement
+## Objective
 This project aims to understand how student performance (test scores) is influenced by various factors, including Gender, Ethnicity, Parental Level of Education, Lunch, and Test Preparation Course.
 ## Data Source
 The data source is https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datasetId=74977
